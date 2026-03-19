@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\CSharpEgitimKampi\\",
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F9EC66A-188A-4862-A3E8-5029321AB08D}|02-Variables\\02-Variables.csproj|c:\\users\\acer\\source\\repos\\csharpegitimkampi\\02-variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11C85866-9B63-4FBF-BFBD-E8B8D6A616B0}|03_MakingDecision\\03_MakingDecision.csproj|c:\\users\\acer\\desktop\\csharpegitimkampi\\03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11C85866-9B63-4FBF-BFBD-E8B8D6A616B0}|03_MakingDecision\\03_MakingDecision.csproj|solutionrelative:03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9EC66A-188A-4862-A3E8-5029321AB08D}|02-Variables\\02-Variables.csproj|c:\\users\\acer\\desktop\\csharpegitimkampi\\02-variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F9EC66A-188A-4862-A3E8-5029321AB08D}|02-Variables\\02-Variables.csproj|solutionrelative:02-variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +36,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\CSharpEgitimKampi\\02-Variables\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\03_MakingDecision\\Program.cs",
+              "RelativeDocumentMoniker": "03_MakingDecision\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\03_MakingDecision\\Program.cs",
+              "RelativeToolTip": "03_MakingDecision\\Program.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAgwBcBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T14:03:17.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\02-Variables\\Program.cs",
               "RelativeDocumentMoniker": "02-Variables\\Program.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\CSharpEgitimKampi\\02-Variables\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\02-Variables\\Program.cs",
               "RelativeToolTip": "02-Variables\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAgwDYAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T11:59:56.497Z",
               "EditorCaption": ""

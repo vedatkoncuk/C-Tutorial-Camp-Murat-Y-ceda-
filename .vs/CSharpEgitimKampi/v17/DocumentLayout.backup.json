@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11C85866-9B63-4FBF-BFBD-E8B8D6A616B0}|03_MakingDecision\\03_MakingDecision.csproj|c:\\users\\acer\\desktop\\csharpegitimkampi\\03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11C85866-9B63-4FBF-BFBD-E8B8D6A616B0}|03_MakingDecision\\03_MakingDecision.csproj|solutionrelative:03_makingdecision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5525B035-CEB2-4500-9DA3-00DEBEB7CAB7}|05_LoopsWithStars\\05_LoopsWithStars.csproj|c:\\users\\acer\\desktop\\csharpegitimkampi\\05_loopswithstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5525B035-CEB2-4500-9DA3-00DEBEB7CAB7}|05_LoopsWithStars\\05_LoopsWithStars.csproj|solutionrelative:05_loopswithstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F9EC66A-188A-4862-A3E8-5029321AB08D}|02-Variables\\02-Variables.csproj|c:\\users\\acer\\desktop\\csharpegitimkampi\\02-variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F9EC66A-188A-4862-A3E8-5029321AB08D}|02-Variables\\02-Variables.csproj|solutionrelative:02-variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33A95972-2FCF-45DB-8BEB-E7107840A6B3}|04_Loops\\04_Loops.csproj|c:\\users\\acer\\desktop\\csharpegitimkampi\\04_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A95972-2FCF-45DB-8BEB-E7107840A6B3}|04_Loops\\04_Loops.csproj|solutionrelative:04_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,26 +36,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\03_MakingDecision\\Program.cs",
-              "RelativeDocumentMoniker": "03_MakingDecision\\Program.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\03_MakingDecision\\Program.cs",
-              "RelativeToolTip": "03_MakingDecision\\Program.cs",
-              "ViewState": "AgIAAP8AAAAAAAAAAAAgwBcBAAAaAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\05_LoopsWithStars\\Program.cs",
+              "RelativeDocumentMoniker": "05_LoopsWithStars\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\05_LoopsWithStars\\Program.cs",
+              "RelativeToolTip": "05_LoopsWithStars\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowJEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T14:03:17.423Z",
+              "WhenOpened": "2026-03-21T04:24:02.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\02-Variables\\Program.cs",
-              "RelativeDocumentMoniker": "02-Variables\\Program.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\02-Variables\\Program.cs",
-              "RelativeToolTip": "02-Variables\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\04_Loops\\Program.cs",
+              "RelativeDocumentMoniker": "04_Loops\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\04_Loops\\Program.cs",
+              "RelativeToolTip": "04_Loops\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwKkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T11:59:56.497Z",
+              "WhenOpened": "2026-03-19T15:01:09.076Z",
               "EditorCaption": ""
             }
           ]

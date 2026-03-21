@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7C8CABAD-204F-4310-8DAA-36BC3A28B347}|08_Methods\\08_Methods.csproj|c:\\users\\acer\\desktop\\csharpegitimkampi\\08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8CABAD-204F-4310-8DAA-36BC3A28B347}|08_Methods\\08_Methods.csproj|solutionrelative:08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99768462-6924-4DF2-A9E5-0C3EA20738A6}|07_ForeachLoop\\07_ForeachLoop.csproj|c:\\users\\acer\\desktop\\csharpegitimkampi\\07_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99768462-6924-4DF2-A9E5-0C3EA20738A6}|07_ForeachLoop\\07_ForeachLoop.csproj|solutionrelative:07_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE57D69-4A74-4204-A277-3BDBB7318E0E}|06_Arrays\\06_Arrays.csproj|c:\\users\\acer\\desktop\\csharpegitimkampi\\06_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE57D69-4A74-4204-A277-3BDBB7318E0E}|06_Arrays\\06_Arrays.csproj|solutionrelative:06_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5525B035-CEB2-4500-9DA3-00DEBEB7CAB7}|05_LoopsWithStars\\05_LoopsWithStars.csproj|c:\\users\\acer\\desktop\\csharpegitimkampi\\05_loopswithstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5525B035-CEB2-4500-9DA3-00DEBEB7CAB7}|05_LoopsWithStars\\05_LoopsWithStars.csproj|solutionrelative:05_loopswithstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,6 +48,45 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\08_Methods\\Program.cs",
+              "RelativeDocumentMoniker": "08_Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\08_Methods\\Program.cs",
+              "RelativeToolTip": "08_Methods\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIAwwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T20:36:15.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\07_ForeachLoop\\Program.cs",
+              "RelativeDocumentMoniker": "07_ForeachLoop\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\07_ForeachLoop\\Program.cs",
+              "RelativeToolTip": "07_ForeachLoop\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T18:50:44.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\06_Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "06_Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\06_Arrays\\Program.cs",
+              "RelativeToolTip": "06_Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T18:16:14.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\05_LoopsWithStars\\Program.cs",
               "RelativeDocumentMoniker": "05_LoopsWithStars\\Program.cs",
               "ToolTip": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\05_LoopsWithStars\\Program.cs",
@@ -47,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\04_Loops\\Program.cs",
               "RelativeDocumentMoniker": "04_Loops\\Program.cs",

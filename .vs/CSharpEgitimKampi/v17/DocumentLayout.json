@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1314446C-F627-452D-8D73-29D2B06DA494}|09_DatabaseProject\\09_DatabaseProject.csproj|c:\\users\\acer\\desktop\\csharpegitimkampi\\09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1314446C-F627-452D-8D73-29D2B06DA494}|09_DatabaseProject\\09_DatabaseProject.csproj|solutionrelative:09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0775E19E-D030-4B50-ACE6-A02D447FB49B}|10_DatabaseCrud\\10_DatabaseCrud.csproj|c:\\users\\acer\\desktop\\csharpegitimkampi\\10_databasecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0775E19E-D030-4B50-ACE6-A02D447FB49B}|10_DatabaseCrud\\10_DatabaseCrud.csproj|solutionrelative:10_databasecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\README.md||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{1314446C-F627-452D-8D73-29D2B06DA494}|09_DatabaseProject\\09_DatabaseProject.csproj|c:\\users\\acer\\desktop\\csharpegitimkampi\\09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1314446C-F627-452D-8D73-29D2B06DA494}|09_DatabaseProject\\09_DatabaseProject.csproj|solutionrelative:09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,26 +34,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-03-29T04:20:19.009Z",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\10_DatabaseCrud\\Program.cs",
+              "RelativeDocumentMoniker": "10_DatabaseCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\10_DatabaseCrud\\Program.cs",
+              "RelativeToolTip": "10_DatabaseCrud\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwEUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T08:02:07.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\09_DatabaseProject\\Program.cs",
               "RelativeDocumentMoniker": "09_DatabaseProject\\Program.cs",
               "ToolTip": "C:\\Users\\Acer\\Desktop\\CSharpEgitimKampi\\09_DatabaseProject\\Program.cs",
               "RelativeToolTip": "09_DatabaseProject\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAkwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwB0AAACYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T02:37:05.856Z",
               "EditorCaption": ""
